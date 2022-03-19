@@ -2,8 +2,8 @@
 Some my practite samples
 
 
-https://farigus.github.io/Furniking-page/
-https://github.com/Farigus/Furniking-page
+> https://farigus.github.io/Furniking-page/
+>> https://github.com/Farigus/Furniking-page
 
 https://farigus.github.io/Justice-league-page/
 https://github.com/Farigus/Justice-league-page
