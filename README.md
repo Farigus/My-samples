@@ -1,5 +1,5 @@
 # My-samples
-Some my practite samples
+Some of my practite samples
 
 
 > https://farigus.github.io/Furniking-page/
