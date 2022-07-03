@@ -1,6 +1,7 @@
 # My-samples
 Some of my practite samples
 
+>> https://github.com/Farigus/Affiliate-page
 
 > https://farigus.github.io/Furniking-page/
 >> https://github.com/Farigus/Furniking-page
